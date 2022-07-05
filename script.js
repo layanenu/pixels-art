@@ -8,3 +8,8 @@ function adicionaPixel() {
 }
 
 adicionaPixel();
+
+// window.onload = function () {
+//   const firstselected = document.querySelector('black');
+//   firstselected.className = 'selected';
+// };
