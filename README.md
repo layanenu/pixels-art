@@ -23,15 +23,12 @@ https://user-images.githubusercontent.com/99842422/210285590-061d740b-1e48-4785-
 <summary><strong>Rodando localmente</strong></summary><br />
  
 Clone o projeto: <br />
-`git clone git@github.com:layanenu/car-shop.git`
+`git clone git@github.com:layanenu/pixels-art.git`
 
 Entre no diretório do projeto: <br />
-`cd car-shop`
+`cd pixels-art`
   
-Suba a orquestração de containers: <br />
-`docker-compose up -d`
-  
-A aplicação poderá ser acessada através de: <br />
-`Back-end: localhost:3001`
+Execute o arquivo: <br />
+`index.html`
   
 </details>
